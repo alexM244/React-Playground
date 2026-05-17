@@ -5,6 +5,7 @@ const samplePerson = {
   name: 'Sasha Super !!!',
   role: 'React learner'
   // my comments
+  // another comment
 }
 
 const plainJavaScriptRowCode = `const row = document.createElement('div')
