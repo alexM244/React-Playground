@@ -4,6 +4,7 @@ import './App.css'
 const samplePerson = {
   name: 'Sasha Super !!!',
   role: 'React learner'
+  // my comments
 }
 
 const plainJavaScriptRowCode = `const row = document.createElement('div')
