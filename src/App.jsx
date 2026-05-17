@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import './App.css'
 
 const samplePerson = {
-  name: 'Maya',
+  name: 'Sasha',
   role: 'React learner'
 }
 
