@@ -2,9 +2,9 @@ import { useEffect, useRef, useState } from 'react'
 import './App.css'
 
 const samplePerson = {
-  name: 'Sasha Super !!!',
+  name: 'Sasha Super !',
   role: 'React learner'
-  // my comments
+  // my FIRST comment 
   // another comment
 }
 
